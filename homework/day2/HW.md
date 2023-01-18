@@ -18,7 +18,8 @@
 <center>
     <img src="./meme_day2.png" width="50%" height="50%" title="meme_day2"/>
 </center>
-아 물론 아래의 **조건**을 만족해야합니다.
+
+아 물론 아래의 **조건** 을 만족해야합니다.
 
 ## Condition(s)
 
