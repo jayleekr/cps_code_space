@@ -16,9 +16,7 @@
 
 그런데 선생님 이름뒤에오는 조사 “은”과 “는”은 선생님의 이름에 따라 다르게 붙어야 할텐데 이를 해결 하기 위해서는 어떻게 해야할까요?
 
-<center>
-    <img src="./meme_day2" width="50%" height="50%" title="meme_day2"/>
-</center>
+<img src="./meme_day2" width="50%" height="50%" title="meme_day2"/>
 
 아 물론 아래의 **조건**을 만족해야합니다.
 
