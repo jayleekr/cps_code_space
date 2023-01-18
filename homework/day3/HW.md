@@ -38,4 +38,6 @@ http://pythonstudy.xyz/python/article/14-%EC%BB%AC%EB%A0%89%EC%85%98--Dictionary
 
 각 팀의 팀장을 어떤식으로 관리할지에대해 고민해보고 이를 찾을 수 있는 효율적 자료구조에 대해 고민해보고 이 기능을 구현하라.
 
-![meme_day3](./meme_day3.jpg)
+<center>
+    <img src="./meme_day3.jpg" width="50%" height="50%" title="meme_day3"/>
+</center>
