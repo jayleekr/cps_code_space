@@ -1,6 +1,6 @@
 # HW-#2
 
-[HW-#1](https://www.notion.so/HW-1-b5c981aae440437f9c45c73af32d20f9)
+[HW-#1](https://github.com/jayleekr/spc_code_space/blob/main/homework/day1/HW.md)
 
 ## Preface
 
@@ -16,7 +16,7 @@
 
 그런데 선생님 이름뒤에오는 조사 “은”과 “는”은 선생님의 이름에 따라 다르게 붙어야 할텐데 이를 해결 하기 위해서는 어떻게 해야할까요?
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b08b6b1-82de-4535-a3db-855676c8c6b0/Untitled.png)
+![meme_day2](./meme_day2.png)
 
 아 물론 아래의 **조건**을 만족해야합니다.
 
