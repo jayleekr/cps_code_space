@@ -2,5 +2,5 @@
 
 ## About this repo
 
-Archives of miscelleneous stuffs of CPC lectures
+Archives of miscelleneous stuffs of CPS lectures
 such as, lecture notes, homework code, or whatever
